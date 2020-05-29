@@ -329,7 +329,20 @@ def start( speed ):
 
 ''' ] '''
 
-''' TYPE YOUR VARIABLES HERE '''
+# global variables
+''' 
+
+TYPE YOUR CLASSES , VARIABLES AND FUNCTIONS HERE
+
+TYPE YOUR CLASSES , VARIABLES AND FUNCTIONS HERE
+
+TYPE YOUR CLASSES , VARIABLES AND FUNCTIONS HERE 
+
+TYPE YOUR CLASSES , VARIABLES AND FUNCTIONS HERE
+
+TYPE YOUR CLASSES , VARIABLES AND FUNCTIONS HERE
+
+'''
 speed = 5 # speed = 0 is faster 
 
 def loop(  ):
@@ -346,10 +359,19 @@ def loop(  ):
             done = False
             break
         """
-        write your programming here
+        WRITE YOUR PROGRAMMING HERE
+        
+        WRITE YOUR PROGRAMMING HERE
+        
+        WRITE YOUR PROGRAMMING HERE
+        
+        WRITE YOUR PROGRAMMING HERE
+        
+        WRITE YOUR PROGRAMMING HERE
+        
         """
     # don't forget to delete the class variables after usage because it catches storage
-    # use del variable name
+    # use del variable_name
 
 loop(  )
 
